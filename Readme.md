@@ -57,7 +57,7 @@ task-manager/
 │   └── vite.config.ts        # Vite configuration
 ├── server/                   # Backend Express server
 │   ├── src/
-│   │   ├── index.ts          # Server entry point with tRPC router
+│   │   ├── server.ts          # Server entry point with tRPC router
 │   ├── package.json          # Backend dependencies
 │   └── tsconfig.json         # TypeScript configuration
 └── README.md                 # Project documentation
